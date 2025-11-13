@@ -139,11 +139,13 @@
 
 #### 9. DA SUBMISSÃO
 
-9.1. As propostas deverão ser enviadas via formulário, a ser divulgado no servidor discord do GameLab.  
+9.1. As propostas deverão ser enviadas via [formulário](https://forms.gle/cJQB5XetxtMkesQt7).
+
+9.2. O servidor Discord do GameLab-UERJ é o principal meio de comunicação entre o laboratório e os alunos.
 
 - Caso não tenha acesso ao servidor, envie e-mail para gabrielc@eng.uerj.br solicitando convite.
 
-9.2. Nome do arquivo:  
+9.3. Nome do arquivo:  
 `PropostaJogo_NomeDoProjeto_NomeDoResponsavel.pdf`
 
 ---
