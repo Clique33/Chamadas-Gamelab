@@ -129,11 +129,11 @@
 | Etapa | Data |
 |-------|------|
 | Lançamento da chamada | 07/11/2025 |
-| Submissão das propostas | até 07/12/2025 |
-| Resultados preliminares | até 14/12/2025 |
-| Recursos | 14 a 19/12/2025 |
-| Resultado final | 21/12/2025 |
-| Início do desenvolvimento | janeiro/2026 |
+| Submissão das propostas | até ~~07/12/2025~~ 21/12/2025 |
+| Resultados preliminares | até ~~14/12/2025~~ 14/01/2026 |
+| Recursos | ~~14 a 19/12/2025~~ 14 a 19/01/2026|
+| Resultado final | ~~21/12/2025~~ 21/01/2026 |
+| Início do desenvolvimento | ~~janeiro~~ fevereiro/2026 |
 
 ---
 
